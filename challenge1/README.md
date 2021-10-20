@@ -8,4 +8,4 @@ the following changes were made to starter code for style.css:
   1. put the classes with same style into one line for better understanding
   2. changed the classes for corresponding changed elements in index.html
   
-deployed link :https://hifishbone.github.io/challenges/
+deployed link :https://hifishbone.github.io/challenges/challenge1/
