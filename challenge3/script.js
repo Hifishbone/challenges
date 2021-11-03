@@ -19,7 +19,7 @@ function getLength() {
 const LOWERS = "abcdefghijklmnopqrstuvwxyz";
 const UPPERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const NUMS = "0123456789";
-const SYMBOLS = "!@#$%^&*_-+=";
+const SYMBOLS = " !\"#$%\&\'()*+,-./:;<=>?@[\\]^_`{|}~";
 
 
 function getNCharacters(n, needLower, needUpper, needNum, needSymbol) {
